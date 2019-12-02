@@ -1,6 +1,6 @@
 import {readFile} from "fs";
 
-readFile("./input/input.txt", 'utf8', function (err, input) {
+readFile("./day-1/input/input.txt", 'utf8', function (err, input) {
 	if (err) {
 		return console.log(err);
 	}
