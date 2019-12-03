@@ -1,0 +1,5 @@
+export class CableGridPosition {
+    public x: number = 0;
+    public y: number = 0;
+    public crossedWired: string[] = [];
+}
