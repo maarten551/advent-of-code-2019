@@ -174,3 +174,5 @@ modules.xml
 *.ipr
 
 # End of https://www.gitignore.io/api/node,webstorm+iml
+
+/.idea/sonarlint/issuestore/

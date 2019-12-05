@@ -2,7 +2,6 @@ import {CableGrid} from './CableGrid';
 
 export class CableGridLayer {
     private currentPosition: [number, number] = [0, 0];
-    private sameCableCollisions: Map<string, number> = new Map<string, number>();
     private stepCounter = 0;
 
     constructor(private cableGrid: CableGrid) {
