@@ -9,7 +9,9 @@
     "execute 2-2": "ts-node day-2/part-2/application.ts",
     "execute 2-1": "ts-node day-2/part-1/application.ts",
     "execute 3-1": "ts-node day-3/part-1/application.ts",
-    "execute 3-2": "ts-node day-3/part-2/application.ts"
+    "execute 3-2": "ts-node day-3/part-2/application.ts",
+    "execute 4-1": "ts-node day-4/part-1/application.ts",
+    "execute 4-2": "ts-node day-4/part-2/application.ts"
   },
   "author": "",
   "license": "ISC",
